@@ -4,5 +4,5 @@ finite parameter bounds are provided, that parameter is internally normalized to
 Install
 =======
 
-To install, ```clone``` then `cd` into this repository, and install with `pip install .`
+To install, ``clone`` then `cd` into this repository, and install with `pip install .`
 
